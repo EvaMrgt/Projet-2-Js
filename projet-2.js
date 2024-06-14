@@ -1,5 +1,7 @@
 const prompt = require("prompt-sync")()
 
+console.log("Bonjour et bienvenue, tu vas jamais réussir à 100% du premier coup, s'il te plait écris bien mes lettres en majuscule.");
+
 let tab = [
     {
         question : "Est-ce que les requins marteau sont végétariens ?",
